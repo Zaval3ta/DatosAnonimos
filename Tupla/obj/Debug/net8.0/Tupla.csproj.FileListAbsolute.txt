@@ -1,0 +1,14 @@
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\bin\Debug\net8.0\Tupla.exe
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\bin\Debug\net8.0\Tupla.deps.json
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\bin\Debug\net8.0\Tupla.runtimeconfig.json
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\bin\Debug\net8.0\Tupla.dll
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\bin\Debug\net8.0\Tupla.pdb
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\obj\Debug\net8.0\Tupla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\obj\Debug\net8.0\Tupla.AssemblyInfoInputs.cache
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\obj\Debug\net8.0\Tupla.AssemblyInfo.cs
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\obj\Debug\net8.0\Tupla.csproj.CoreCompileInputs.cache
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\obj\Debug\net8.0\Tupla.dll
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\obj\Debug\net8.0\refint\Tupla.dll
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\obj\Debug\net8.0\Tupla.pdb
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\obj\Debug\net8.0\Tupla.genruntimeconfig.cache
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\Tupla\obj\Debug\net8.0\ref\Tupla.dll
