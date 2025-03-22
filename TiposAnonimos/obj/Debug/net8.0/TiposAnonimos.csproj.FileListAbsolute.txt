@@ -1,0 +1,14 @@
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.exe
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.deps.json
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.runtimeconfig.json
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.dll
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.pdb
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.AssemblyInfo.cs
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.dll
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\obj\Debug\net8.0\refint\TiposAnonimos.dll
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.pdb
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.genruntimeconfig.cache
+C:\Users\Zaval3ta\Desktop\DatosAnonimos\TiposAnonimos\obj\Debug\net8.0\ref\TiposAnonimos.dll
